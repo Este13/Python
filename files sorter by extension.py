@@ -13,4 +13,4 @@ for root, dirs, files in os.walk(source_dir):
         if file.endswith('.zip'): # Change the .zip to whatever extention you like
             source_path = os.path.join(root, file)
             shutil.copy(source_path, target_dir)
-#https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
