@@ -1,6 +1,6 @@
-# File Picker
+# File Sorter
 
-## Can move or copy a certain type of file recursively.
+## Can copy a certain type of file recursively.
 
-This just pick files from a choosen folder and copy the ones linked to the extension you choosed in an other folder
+This just pick files from a choosen folder and move the ones linked to the extension you choosed in an other folder
 work recursively
